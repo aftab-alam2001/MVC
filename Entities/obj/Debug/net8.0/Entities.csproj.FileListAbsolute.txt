@@ -1,0 +1,11 @@
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\bin\Debug\net8.0\Entities.dll
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\obj\Debug\net8.0\Entities.dll
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Entities\obj\Debug\net8.0\ref\Entities.dll

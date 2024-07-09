@@ -1,0 +1,17 @@
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\bin\Debug\net8.0\Repository.dll
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\bin\Debug\net8.0\Entities.dll
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\bin\Debug\net8.0\Entities.pdb
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.dll
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+C:\Working-Folder\Udmey\NZWalks\UnitOfWork\Repository\obj\Debug\net8.0\ref\Repository.dll
