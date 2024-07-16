@@ -30,6 +30,7 @@ namespace UnitOfWork.Controllers
         {
             if(ModelState.IsValid)
             {
+                //Test for git branch
                 _unitOfWorks.Category.Add(category);
                 _unitOfWorks.SaveChanges();
 
